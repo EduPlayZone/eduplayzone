@@ -208,6 +208,14 @@ const questions = [
                "Zebra \u{1F993}"],
     answer: 3
     },
+  {
+    question: "A for ",
+    options: [ "Zebra \u{1F993}",
+               "Ant \u{1F41C}",
+               "Cat \u{1F431}",
+               "Dog \u{1F436}"],
+    answer: 0
+  },
   // Add more questions here...
 ];
 
